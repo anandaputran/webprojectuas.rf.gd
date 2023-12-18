@@ -1,0 +1,31 @@
+- about.html berisikan kode program untuk halaman tentang kami.
+
+- auth.php berfungsi sebagai autentikasi/izin untuk mengakses mainpage.php.
+
+- index.php berfungsi sebagai homepage pada web project ini.
+
+- keranjang.php berfungsi sebagai penampil tabel total belanja.
+
+- koneksi.php berfungsi sebagai penyambung antara database dengan website.
+
+- login.php berfungsi sebagai login page.
+
+- logout.php berisikan perintah untuk melakukan logout user/pengguna.
+
+- mainpage.php berisikan kode program untuk menampilkan data dari mainproduk.php.
+
+- mainproduk.php berfungsi sebagai pemanggil tabel produk dari database untuk ditampilkan pada mainpage.php.
+
+- payment.html & paymentdone.html berfungsi sebagai penampil payment page dan payment done page.
+
+- produk.php berfungsi sebagai pemanggil tabel produk dari database untuk ditampilkan pada home page.
+
+- register.php berfungsi sebagai pembuat data pada tabel users sebelum pengguna dapat mengakses mainpage atau sebelum melakukan login.
+
+- folder asset berisikan file icon pada title/judul halaman.
+
+- folder css berisikan file css bootstrap.
+
+- folder img berisikan gambar-gambar yang ditampilkan pada halaman web.
+
+- folder js berisikan file javascript bootstrap.
