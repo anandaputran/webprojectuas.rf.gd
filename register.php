@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Project Website UTS</title>
+    <title>Project Website UAS</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/laptop.ico" />
     <!-- Bootstrap icons-->
